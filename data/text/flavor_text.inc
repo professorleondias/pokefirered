@@ -1,7 +1,7 @@
 @ Flavor text for interacting with various background objects
 
 gUnknown_81C0DB0:: @ 81C0DB0
-	.string "It's crammed full of POKéMON\n"
+	.string "It's crammed full of Pokémon\n"
 	.string "books.$"
 
 Text_NothingButPokemonBooks:: @ 81C0DD4
@@ -9,11 +9,11 @@ Text_NothingButPokemonBooks:: @ 81C0DD4
 	.string "ポケモンの　ほん　ばかりだ$"
 
 Text_ATownMap:: @ 81C0DF1
-	.string "A TOWN MAP.$"
+	.string "A Town Map.$"
 
 gUnknown_81C0DFD:: @ 81C0DFD
 	.string "Wow!\n"
-	.string "Tons of POKéMON stuff!$"
+	.string "Tons of Pokémon stuff!$"
 
 Text_DishesPlatesNeatlyLinedUp:: @ 81C0E19
 	.string "Dishes and plates are neatly\n"
@@ -32,21 +32,21 @@ gUnknown_81C0EAC:: @ 81C0EAC
 
 Text_PokemartSign:: @ 81C0ECB
 	.string "All your item needs fulfilled!\n"
-	.string "POKéMON MART$"
+	.string "Pokémon Mart$"
 
 Text_PokecenterSign:: @ 81C0EF7
-	.string "Heal Your POKéMON!\n"
-	.string "POKéMON CENTER$"
+	.string "Heal Your Pokémon!\n"
+	.string "Pokémon Center$"
 
 Text_Indigo_UltimateGoal:: @ 81C0F19
-	.string "INDIGO PLATEAU\p"
-	.string "The ultimate goal of TRAINERS!\n"
-	.string "POKéMON LEAGUE HQ$"
+	.string "Indigo Plateau\p"
+	.string "The ultimate goal of Trainers!\n"
+	.string "Pokémon League HQ$"
 
 Text_Indigo_HighestAuthority:: @ 81C0F59
-	.string "INDIGO PLATEAU\p"
-	.string "The highest POKéMON authority!\n"
-	.string "POKéMON LEAGUE HQ$"
+	.string "Indigo Plateau\p"
+	.string "The highest Pokémon authority!\n"
+	.string "Pokémon League HQ$"
 
 gUnknown_81C0F99:: @ 81C0F99
 	.string "It should be packed with all kinds\n"
@@ -57,7 +57,7 @@ gUnknown_81C0FD8:: @ 81C0FD8
 	.string "It's filled with diagrams and text.$"
 
 gUnknown_81C101B:: @ 81C101B
-	.string "It's a pretty picture of a POKéMON.\n"
+	.string "It's a pretty picture of a Pokémon.\n"
 	.string "It looks like it's feeling good.$"
 
 gUnknown_81C1060:: @ 81C1060
@@ -86,7 +86,7 @@ gUnknown_81C116E:: @ 81C116E
 	.string "There's nothing here!$"
 
 gUnknown_81C1194:: @ 81C1194
-	.string "It's a cup with a POKéMON mark\n"
+	.string "It's a cup with a Pokémon mark\n"
 	.string "on it.$"
 
 gUnknown_81C11BA:: @ 81C11BA
@@ -118,5 +118,5 @@ gUnknown_81C12D6:: @ 81C12D6
 	.string "here…$"
 
 gUnknown_81C1300:: @ 81C1300
-	.string "There's a POKéMON on TV!\n"
+	.string "There's a Pokémon on TV!\n"
 	.string "It looks like it's having fun.$"
