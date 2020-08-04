@@ -4,12 +4,12 @@ VSSeeker_Text_BatteryNotChargedNeedXSteps:: @ 81C137C
 	.string "charge the battery: {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
 
 VSSeeker_Text_NoTrainersWithinRange:: @ 81C13D6
-	.string "There are no TRAINERS within range\n"
+	.string "There are no Trainers within range\n"
 	.string "who can battle…\p"
-	.string "The VS SEEKER was turned off.{PAUSE_UNTIL_PRESS}$"
+	.string "The VS Seeker was turned off.{PAUSE_UNTIL_PRESS}$"
 
 VSSeeker_Text_TrainersNotReady:: @ 81C1429
-	.string "The other TRAINERS don't appear\n"
+	.string "The other Trainers don't appear\n"
 	.string "to be ready for battle.\p"
 	.string "Let's wait till later.{PAUSE_UNTIL_PRESS}$"
 
